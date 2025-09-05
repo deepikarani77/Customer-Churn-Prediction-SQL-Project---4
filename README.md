@@ -23,6 +23,7 @@ and resource-friendly. Optimizing queries is not just about writing correct SQLâ
 4. Query Optimization Techniques
 5. Data Modeling & Normalization
 
+
 **#SQL #DataOptimization #DatabaseBestPractices #DataScience #LearningJourney #SQLSkills**
 
 <img width="772" height="382" alt="20" src="https://github.com/user-attachments/assets/a5ae3ff4-300e-4cca-a49b-a65870c0a487" />
